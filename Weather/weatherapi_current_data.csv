@@ -1,0 +1,11 @@
+City,Country,Temperature (C),Humidity (%),Wind (kph),Condition
+New York,United States of America,27.8,70,6.8,Overcast
+London,United Kingdom,23.4,44,14.8,Partly Cloudy
+Tokyo,Japan,27.2,89,31.0,Partly cloudy
+Delhi,Canada,26.5,68,10.4,Partly Cloudy
+Sydney,Australia,11.2,58,10.1,Clear
+Moscow,Russia,23.1,73,16.2,Light rain shower
+Cairo,Egypt,39.2,9,13.0,Sunny
+Paris,France,22.3,69,15.1,Light rain
+Rio De Janeiro,Brazil,19.3,83,3.6,Sunny
+Toronto,Canada,25.3,74,9.4,Partly Cloudy
